@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/tobiaszmaj/Ecommerce-Phone-Shop/precache-manifest.2cde3824605c648166a15b52e0e836be.js"
+  "/Ecommerce-Phone-Shop/precache-manifest.1df4f2048ee31e4dd00a58da914dd25e.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/tobiaszmaj/Ecommerce-Phone-Shop/index.html", {
+workbox.routing.registerNavigationRoute("/Ecommerce-Phone-Shop/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

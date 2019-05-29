@@ -12,12 +12,12 @@ export default class Navbar extends Component {
             https://www.iconfinder.com/icons/1243689/call_phone_icon
             Creative Commons (Attribution 3.0 Unported);
             https://www.iconfinder.com/Makoto_msk */}
-                <Link to='/'>
+                <Link to='/Ecommerce-Phone-Shop/'>
                     <img src={logo} alt="store" className="navbar-brand" />
                 </Link>
                 <ul className="navbar-nav align-items-center">
                     <li className="nav-item ml-5"></li>
-                    <Link to="/" className="nav-link">Products</Link>
+                    <Link to="/Ecommerce-Phone-Shop/" className="nav-link">Products</Link>
                 </ul>
                 <Link to='/cart' className="ml-auto">
                     <ButtonContainer>

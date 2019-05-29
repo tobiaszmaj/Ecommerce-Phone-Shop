@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/Ecommerce-Phone-Shop/static/js/runtime~main.77cca742.js"
   },
   {
-    "revision": "e737f4920bdf1c80165e",
-    "url": "/Ecommerce-Phone-Shop/static/js/main.e981d56b.chunk.js"
+    "revision": "5d23b590aa2ff08b5ba9",
+    "url": "/Ecommerce-Phone-Shop/static/js/main.ff29d661.chunk.js"
   },
   {
     "revision": "d65d42343fef75349f95",
     "url": "/Ecommerce-Phone-Shop/static/js/2.59c93bc7.chunk.js"
   },
   {
-    "revision": "e737f4920bdf1c80165e",
+    "revision": "5d23b590aa2ff08b5ba9",
     "url": "/Ecommerce-Phone-Shop/static/css/main.4e4379e0.chunk.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/Ecommerce-Phone-Shop/static/css/2.8f95e478.chunk.css"
   },
   {
-    "revision": "23de3f240550ba2065b92af466a3aca4",
+    "revision": "fd367c796b8935a7826ef15d174eeb2a",
     "url": "/Ecommerce-Phone-Shop/index.html"
   }
 ];

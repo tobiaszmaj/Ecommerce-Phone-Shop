@@ -1,6 +1,6 @@
 # Ecommerce Phone Shop
 
-[Demo](https://tobiaszmaj.github.io/Ecommerce-Phone-Shop/)
+### See [DEMO](https://tobiaszmaj.github.io/Ecommerce-Phone-Shop/)
 
 ![Preview](preview.jpg)
 
